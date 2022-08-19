@@ -1,5 +1,5 @@
 ### Hi there, I'm Nicholas 👋
-- 🔭 I’m currently working on Front and Back end
+- 🔭 I’m currently looking forward an opportunity on TI's area 
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: (21) 97177-0065
 - 😄 Pronouns: he/him
